@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(643,9): fatal error C1088: Cannot flush compiler intermediate file: 'C:\Users\5308~1\AppData\Local\Temp\_CL_fb696c02ex': No space left on device
